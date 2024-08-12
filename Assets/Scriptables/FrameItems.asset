@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b05afbf46f823448c104eecd04d458, type: 3}
+  m_Name: FrameItems
+  m_EditorClassIdentifier: 
+  Items:
+  - frameIdx: 16
+    <Tile>k__BackingField: {fileID: 11400000, guid: 1588a9de6bb7a4846ada3ad417d8643d, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 1
+    <Tile>k__BackingField: {fileID: 11400000, guid: 0d6d0adcf74c7844fae207a2d935d994, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 2
+    <Tile>k__BackingField: {fileID: 11400000, guid: ad03dcf6a4f74c74fab3d00cd5be9d7f, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 3
+    <Tile>k__BackingField: {fileID: 11400000, guid: ae758d410e729c74fbd38da01346ae16, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 4
+    <Tile>k__BackingField: {fileID: 11400000, guid: fe48091918e320b479f43287a4c9b77b, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 5
+    <Tile>k__BackingField: {fileID: 11400000, guid: 70c699633f0599741b00c72ccee48e70, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 6
+    <Tile>k__BackingField: {fileID: 11400000, guid: 9ef6e5a6391d81c4c82cf7e4e1f19e4b, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 7
+    <Tile>k__BackingField: {fileID: 11400000, guid: ce58b376b6eb0a24e97b0398acab24f7, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 8
+    <Tile>k__BackingField: {fileID: 11400000, guid: 12474c32699f80b4e81e9bcf116fcc69, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 9
+    <Tile>k__BackingField: {fileID: 11400000, guid: a9b13534096d5bd4aabd04403babdd17, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 10
+    <Tile>k__BackingField: {fileID: 11400000, guid: 333093a689e99c8469fe3f208db93236, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 11
+    <Tile>k__BackingField: {fileID: 11400000, guid: c3c35557e39a97944b89605c1a1a005e, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 12
+    <Tile>k__BackingField: {fileID: 11400000, guid: 10d25710333cd6641bf0759b3cd61637, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 13
+    <Tile>k__BackingField: {fileID: 11400000, guid: 586a6242774205f49a7b9d56106bd65f, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 14
+    <Tile>k__BackingField: {fileID: 11400000, guid: e525e1abb544d1f48af9a58fdd6eda4e, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  - frameIdx: 15
+    <Tile>k__BackingField: {fileID: 11400000, guid: f8b4fee812c201d44920d6f98f6d7140, type: 2}
+    <TileOffset>k__BackingField: {x: 0, y: 0, z: 0}
